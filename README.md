@@ -44,3 +44,6 @@ This script automates the process of referring users to a Telegram bot using mul
 
 ## Disclaimer  
 This script is for educational purposes only. Use it responsibly.
+
+## Join TG Channel
+https://t.me/AirdropTube28
